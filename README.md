@@ -18,7 +18,7 @@ Persons Manager App features are listed below:
   - Copy each entry of data
 
 ## Requirements
-Your server need to met minimal requirements to run Persons Manager App:
+Your computer need to met minimal requirements to run Persons Manager App:
 - Python 3.7 or above.
 
 ## Installation 
