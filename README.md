@@ -19,7 +19,7 @@ Persons Manager App features are listed below:
 
 ## Requirements
 Your computer need to met minimal requirements to run Persons Manager App:
-- Python 3.7 or above.
+- Python 3.6 or above.
 
 ## Installation 
 Installation of Encryption App is much eaiser then you think!
