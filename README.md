@@ -23,7 +23,8 @@ Your computer need to met minimal requirements to run Persons Manager App:
 
 ## Installation 
 Installation of Encryption App is much eaiser then you think!
-- Download the program form the [releases](https://github.com/santydesignscr/person-manager/releases). 
+- Download the program from the code. 
+- Install Python 3.6 or above and Pyperclip
 - Run and use the program!
 
 ## Dependencies
